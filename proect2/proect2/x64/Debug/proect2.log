@@ -1,0 +1,35 @@
+﻿  Animal.cpp
+  Cat.cpp
+C:\Users\Egor\source\repos\proect2\proect2\Dog.h(9,20): error C2504: Animal: не определен базовый класс
+  (компиляция исходного файла "Animal.cpp")
+  
+C:\Users\Egor\source\repos\proect2\proect2\Dog.h(21,10): error C3668: Dog::speak: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Animal.cpp")
+  
+C:\Users\Egor\source\repos\proect2\proect2\Cat.h(8,20): error C2504: Animal: не определен базовый класс
+  (компиляция исходного файла "Animal.cpp")
+  
+C:\Users\Egor\source\repos\proect2\proect2\Cat.h(20,10): error C3668: Cat::speak: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Animal.cpp")
+  
+C:\Users\Egor\source\repos\proect2\proect2\Dog.h(9,20): error C2504: Animal: не определен базовый класс
+  (компиляция исходного файла "Cat.cpp")
+  
+C:\Users\Egor\source\repos\proect2\proect2\Dog.h(21,10): error C3668: Dog::speak: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Cat.cpp")
+  
+  Dog.cpp
+C:\Users\Egor\source\repos\proect2\proect2\Cat.h(8,20): error C2504: Animal: не определен базовый класс
+  (компиляция исходного файла "Dog.cpp")
+  
+C:\Users\Egor\source\repos\proect2\proect2\Cat.h(20,10): error C3668: Cat::speak: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Dog.cpp")
+  
+  proect2.cpp
+C:\Users\Egor\source\repos\proect2\proect2\Cat.h(8,20): error C2504: Animal: не определен базовый класс
+  (компиляция исходного файла "proect2.cpp")
+  
+C:\Users\Egor\source\repos\proect2\proect2\Cat.h(20,10): error C3668: Cat::speak: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "proect2.cpp")
+  
+  Создание кода...
